@@ -33,6 +33,10 @@
   background-color: white;
 }
 
+.grid-container {
+  display: grid;
+}
+
 .imageContainer > img:hover {
   width: 600px;
   height: 300px;
