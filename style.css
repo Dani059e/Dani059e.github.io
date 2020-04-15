@@ -30,6 +30,11 @@
   background-color: white;
 }
 
+.imageContainer > img:hover {
+  width: 500px;
+  height: 200px;
+}
+
 /* If you want the content centered horizontally and vertically */
 .centered {
   position: absolute;
